@@ -27,4 +27,28 @@ Here, I have used Fetch Method to retrieve the data from API. It is a async meth
 ```
 
 
+### How to Run The Application
+
+
+```
+
+git clone https://github.com/Anilajay12/react-learning.git 
+
+cd advice-app 
+
+npm install 
+
+npm run dev
+
+```
+
+##### npm install 
+It will install the required node modules as per package.json file <br />
+
+##### npm run dev
+It will start the application in 5173 port by default.  [visit: localhost: 5173 to view the applicaition](http://localhost:5173)
+
+<br /><br/>
+
+
 [For more details read the api documentation. Click Me ➡️➡️. Happy Coding 🙂🙂](https://api.adviceslip.com/)
