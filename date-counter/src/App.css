@@ -1,0 +1,15 @@
+body {
+  background-color: aqua;
+}
+
+.step {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.count {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
